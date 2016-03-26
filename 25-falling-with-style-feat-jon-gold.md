@@ -1,3 +1,7 @@
+In episode 25 of Does Not Compute, Sean and Paul talk to Jon Gold about using Functional CSS to ship consistent interfaces with less code, when it's a good idea to introduce type safety to your javascript, and Jon's everlasting love of Vim
+
+---
+
 Special thanks to [Hired](https://hired.com/doesnotcompute) for sponsoring this week's episode!
 
 If you are a developer looking for a job, Hired is a fantastic place to start looking. If you accept a job through Hired they will give you a $1,000 signing bonus. Even better yet, if you use our link at [https://hired.com/doesnotcompute](https://hired.com/doesnotcompute) they'll double that to $2,000! What are you waiting for?
