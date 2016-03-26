@@ -17,6 +17,9 @@ If you are a developer looking for a job, Hired is a fantastic place to start lo
 * [Immutible Objects](https://en.wikipedia.org/wiki/Immutable_object)
 * [Building and Shipping Functional CSS](https://blog.colepeters.com/building-and-shipping-functional-css/)
 * [How I Learned to Stop Worrying and Love the Atomic Class](https://medium.com/buzzfeed-design/how-i-learned-to-stop-worrying-and-love-the-atomic-class-98d6ccc45781)
+* [TypeScript](http://www.typescriptlang.org)
+* [Flow](http://flowtype.org)
+* [Jon's Vimrc File](https://github.com/jongold/dotfiles/blob/master/vim/vimrc.symlink)
 * [Learn to speak vim – verbs, nouns, and modifiers!](http://yanpritzker.com/2011/12/16/learn-to-speak-vim-verbs-nouns-and-modifiers/)
 
 ### Join Us On Slack
