@@ -18,6 +18,7 @@ If you are a developer looking for a job, Hired is a fantastic place to start lo
 * [Expressive CSS](http://johnpolacek.github.io/expressive-css/)
 * [Pure UI](http://rauchg.com/2015/pure-ui/)
 * [CSS Modules](https://github.com/css-modules/css-modules)
+* [Early History of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/)
 * [Immutable Objects](https://en.wikipedia.org/wiki/Immutable_object)
 * [Building and Shipping Functional CSS](https://blog.colepeters.com/building-and-shipping-functional-css/)
 * [How I Learned to Stop Worrying and Love the Atomic Class](https://medium.com/buzzfeed-design/how-i-learned-to-stop-worrying-and-love-the-atomic-class-98d6ccc45781)
