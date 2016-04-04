@@ -37,4 +37,4 @@ If you've enjoyed the show so far, reach out to us on twitter at @seanwashington
 
 ### Leave us a review!
 
-Last but not least, if you haven't rated or reviewed the show yet and you'd like to do us a huge favor, you can do so by clicking here!
+Last but not least, if you haven't rated or reviewed the show yet and you'd like to do us a huge favor, [you can do so by clicking here!](https://itunes.apple.com/us/podcast/does-not-compute/id1048731980?mt=2)
