@@ -1,4 +1,4 @@
-In episode 27 of Does Not Compute, Sean and Paul talk about the pros and cons to working remotely as a part of a programming team and contempt culture - our itentions are not magic
+In episode 27 of Does Not Compute, Sean and Paul talk about the pros and cons to working remotely as a part of a programming team and contempt culture - our intentions are not magic
 
 ---
 
