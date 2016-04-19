@@ -1,4 +1,4 @@
-In episode 28 of Does Not Compute, Sean and Paul using todo apps to get things done (or the lack thereof), and how they feel about the slack vs. email controversy.
+In episode 28 of Does Not Compute, Sean and Paul talk about using todo apps to get things done (or the lack thereof), and how they feel about the slack vs. email controversy.
 
 ---
 
