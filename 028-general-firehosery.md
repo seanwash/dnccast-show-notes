@@ -1,4 +1,4 @@
-In episode 28 of Does Not Compute, Sean and Paul talk about the pros and cons to working remotely as a part of a programming team and contempt culture - our intentions are not magic
+In episode 28 of Does Not Compute, Sean and Paul using todo apps to get things done (or the lack thereof), and how they feel about the slack vs. email controversy.
 
 ---
 
@@ -17,7 +17,6 @@ Head on over to [http://digitalocean.com/doesnotcompute](http://digitalocean.com
 * [Best todo list app by Wired](http://www.wired.com/2016/03/best-to-do-list-app/)
 * [Nvalt](http://brettterpstra.com/projects/nvalt/)
 * [Slack](https://slack.com/)
-* 
 
 ### Previous Show Notes
 
