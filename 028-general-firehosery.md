@@ -4,9 +4,7 @@ In episode 28 of Does Not Compute, Sean and Paul talk about the pros and cons to
 
 Special thanks to [Digital Ocean](http://digitalocean.com/doesnotcompute) for sponsoring this week's episode!
 
-Head on over to [http://digitalocean.com/doesnotcompute](http://digitalocean.com/doesnotcompute) and you'll get 1 1gb droplet for free for an entire month. That's free money!
-
-towards your own Lightning-Quick SSD Server to do with as you please. You get complete control over your virtual server and they provide a number of great services such as automated backups, node balancers, two factor authentication and more!
+Head on over to [http://digitalocean.com/doesnotcompute](http://digitalocean.com/doesnotcompute) and you'll get a 1gb droplet for free for an entire month. Again, that's a free ssd backed server with a dozen one click installs available for _free_.
 
 ### Things Mentioned
 
@@ -17,6 +15,9 @@ towards your own Lightning-Quick SSD Server to do with as you please. You get co
 * [Wunderlist](https://www.wunderlist.com/)
 * [GitLab](https://about.gitlab.com/)
 * [Best todo list app by Wired](http://www.wired.com/2016/03/best-to-do-list-app/)
+* [Nvalt](http://brettterpstra.com/projects/nvalt/)
+* [Slack](https://slack.com/)
+* 
 
 ### Previous Show Notes
 
