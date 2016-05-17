@@ -1,4 +1,4 @@
-In episode 32 of Does Not Compute, Sean and Paul talk to Peter Cooper of Cooper Press about how they manage the sheer volume of tech news being shared each day, being able to adapt to new technologies by learning on demand, and the ever changing landscape of social media.
+In episode 32 of Does Not Compute, Sean and Paul talk about how taking a step back from the programming world often leads to perspective, and how to deal with being thrown into the deep end of a new language or framework
 
 ---
 
