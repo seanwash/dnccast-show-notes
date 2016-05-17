@@ -4,7 +4,7 @@ In episode 32 of Does Not Compute, Sean and Paul talk about how taking a step ba
 
 Special thanks to [Digital Ocean](http://digitalocean.com/doesnotcompute) for sponsoring this week's episode!
 
-Head on over to [http://digitalocean.com/doesnotcompute](http://digitalocean.com/doesnotcompute) and you'll get a 1gb droplet for free for an entire month. Again, that's a free ssd backed server with a dozen one click installs available for _free_.
+Head on over to [http://digitalocean.com/doesnotcompute](http://digitalocean.com/doesnotcompute) and use the code `doesnotcompute` to get a 1gb droplet for free for an entire month. Again, that's a free ssd backed server with a dozen one click installs available for _free_.
 
 ### Things Mentioned
 
@@ -17,7 +17,7 @@ Head on over to [http://digitalocean.com/doesnotcompute](http://digitalocean.com
 * [(A large) List of programming languages](https://en.wikipedia.org/wiki/List_of_programming_languages)
 * [Quiet by Susan Cain](http://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153)
 * [The Power of Habit by Charles Duhigg](http://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X/ref=pd_sim_14_7?ie=UTF8&dpID=51Ml%2BjD9l3L&dpSrc=sims&preST=_AC_UL160_SR104%2C160_&refRID=0E28K0W9H8TCDAAWH5G2)
-* [oliver Pattison is a badass](https://olivermak.es/)
+* [Oliver Pattison is a badass](https://olivermak.es/)
 
 
 ### Tips for being thrown into the deep end
