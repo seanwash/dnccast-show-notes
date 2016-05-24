@@ -1,30 +1,21 @@
-In episode 31 of Does Not Compute, Sean and Paul talk to Peter Cooper of Cooper Press about how they manage the sheer volume of tech news being shared each day, being able to adapt to new technologies by learning on demand, and the ever changing landscape of social media.
+In episode 33 of Does Not Compute, Sean and Paul talk GitHub's unlimited private repos, how having your own playbook can save you time on repetitive questions and tasks, and how the right programming cookbook can accelerate your learning
 
 ---
 
-Special thanks to [Linode](http://linode.com/doesnotcompute20) for sponsoring this week's episode!
+Special thanks to [Rollbar](https://rollbar.com/dnc) for sponsoring this week's episode!
 
-Head on over to [http://linode.com/doesnotcompute20](http://linode.com/doesnotcompute20) and you'll get $20 towards your own Lightning-Quick SSD Server to do with as you please. You get complete control over your virtual server and they provide a number of great services such as automated backups, node balancers, two factor authentication and more!
+Put errors in their place - In less than ten minutes you could have full blown web or native app error tracking setup no matter your framework. With local variables in stack traces and JavaScript source map support, you'll be able to save both yourself and your users a headache by fixing bugs before they even notice. Visit [https://rollbar.com/dnc](https://rollbar.com/dnc) and sign up to get 90 days of their bootstrap plan for free! 
 
 ### Things Mentioned
 
-* [peterc.org](http://peterc.org/)
-* [@peterc](https://twitter.com/peterc)
-* [cooperpress.com](https://cooperpress.com/)
-* [Cooper Press on Medium](https://medium.com/cooper-press)
-* [How we collect and curate the links for our email newsletters (video)](https://medium.com/cooper-press/how-we-collect-and-curate-the-links-for-our-email-newsletters-video-983041bfcce#.kn6o7aueo)
-* [Dr. Axel Rauschmayer](http://rauschma.de/)
-* [Lug-Nut Driven Development (LuDDite)](https://medium.com/@belisarius222/how-to-start-a-software-project-ad51373c1510#.z9x6elnhz)
-* [NodeSchool](http://nodeschool.io/)
-* [Fluent Conf 2016](http://conferences.oreilly.com/fluent/javascript-html-us)
-* [Guy Goma - BBC Interviews Wrong Person*](https://en.wikipedia.org/wiki/Guy_Goma)
-* [Anchor - Radio by the people](https://anchor.fm/)
-* [Bumpers.fm](http://bumpers.fm/)
-* [App.net](https://app.net/)
-* [Peach](http://peach.cool/)
-* [Snapchat](https://www.snapchat.com/)
-
-*I tried to find this on youtube but it appears the video was removed 😔
+* [GitHub now offers unlimited private repos for $7mo](https://github.com/blog/2164-introducing-unlimited-private-repositories)
+* [GitLab](https://about.gitlab.com/)
+* [Statamic](https://statamic.com/)
+* [Thoughtbot's Playbook](https://playbook.thoughtbot.com/)
+* [RFC](https://en.wikipedia.org/wiki/Request_for_Comments)
+* [Elixir](http://elixir-lang.org/)
+* [Phoenix](http://www.phoenixframework.org/)
+* [Hapi js in action](https://www.manning.com/books/hapi-js-in-action)
 
 ### Previous Show Notes
 
