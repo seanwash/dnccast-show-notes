@@ -1,4 +1,4 @@
-In episode 39 of Does Not Compute, Sean and Paul talk about the power of simplicity when it comes to personal productivity and how that means different things for different people, and how going into situations in life with optimism will often lead to a better quality of life 
+In episode 39 of Does Not Compute, Sean and Paul talk about how they approach setting personal and professional goals, address the age old question "How does one get started with programming these days?", and how learning a few things about yourself you can dramatically reduce the amount of frustration you'll experience.
 
 ---
 
