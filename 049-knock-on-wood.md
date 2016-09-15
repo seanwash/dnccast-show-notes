@@ -4,7 +4,7 @@ In episode 49 of Does Not Compute, Sean and Paul talk about keeping long running
 
 ## Things Mentioned
 
-* [Knight Foundation](http://knghtfoudation.org)
+* [Knight Foundation](http://knightfoundation.org)
 * [Dropbox Paper](http://dropbox.com/paper)
 * [Postgres JSON Types](https://www.postgresql.org/docs/9.5/static/datatype-json.html)
 * [GitLab](http://gitlab.com)
