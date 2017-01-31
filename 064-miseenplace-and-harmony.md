@@ -1,4 +1,4 @@
-In episode 64 of Does Not Compute, Sean and Paul talk about deep work and battling distractions, applying Mise En Place to our trade as web developers, and about how much you can learn about yourself when you're in charge of your working schedule
+In episode 64 of Does Not Compute, Sean and Paul talk about how keeping a simple Research file in your project can help you be more productive, how using pre-existing design guidelines can help you make more informed decisions, and about how they are adjusting to their new roles as Designer/Developers.
 
 ---
 
@@ -8,14 +8,17 @@ Head on over to [http://linode.com/doesnotcompute](https://linode.com/doesnotcom
 
 ### Things Mentioned
 
-* [Deep Work](http://calnewport.com/books/deep-work/)
-* [Figma](https://www.figma.com/)
-* [Sketch](https://www.sketchapp.com/)
-* [Worst Cooks in America](http://www.foodnetwork.com/shows/worst-cooks-in-america.html?c1=GA_TVMKTG_Worst-Cooks-in-America&c2=Google&c3=Sustaining&c4=worst%20cooks%20in%20america)
-* [Anne Burrell](https://en.wikipedia.org/wiki/Anne_Burrell)
-* [Mise en place](https://en.wikipedia.org/wiki/Mise_en_place)
-* [Periphery](https://en.wikipedia.org/wiki/Periphery_(band))
-* [Misha Mansoor](https://en.wikipedia.org/wiki/Misha_Mansoor)
+* [Design Guidelines](http://designguidelines.co/)
+* [Clear App](https://www.realmacsoftware.com/clear/)
+* [Keep journals to become a better developer](https://dbader.org/blog/keep-journals-to-become-a-better-developer)
+* [Rubber Duck Debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+* [Greenfield Projects](https://en.wikipedia.org/wiki/Greenfield_project)
+* [Docusign](https://www.docusign.com/)
+* [Licecap - Easily record screen captures to animated gifs to share with others](http://www.cockos.com/licecap/)
+* [Vue Router](https://router.vuejs.org/en/)
+* [Vue Devtools](https://github.com/vuejs/vue-devtools)
+* [Netlify](https://www.netlify.com/)
+* [React Devtools](https://github.com/facebook/react-devtools)
 
 ### Join Us On Slack
 
