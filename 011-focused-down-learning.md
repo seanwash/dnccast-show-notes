@@ -2,7 +2,7 @@ In episode 11 of Does Not Compute, Sean and Paul talk about remote development s
 
 ---
 
-If you've enjoyed the show so far, reach out to us on twitter at @seanwashington and @paulstraw, or join us in the Spec.fm slack community at http://spec.fm/slack! Also, if you haven't rated or reviewed the show yet and you'd like to do us a huge favor, you can do so here: https://itunes.apple.com/us/podcast/does-not-compute/id1048731980?mt=2
+If you've enjoyed the show so far, reach out to us on twitter at @seanwashbot and @paulstraw, or join us in the Spec.fm slack community at http://spec.fm/slack! Also, if you haven't rated or reviewed the show yet and you'd like to do us a huge favor, you can do so here: https://itunes.apple.com/us/podcast/does-not-compute/id1048731980?mt=2
 
 
 ### Things Mentioned

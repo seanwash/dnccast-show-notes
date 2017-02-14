@@ -25,7 +25,7 @@ Head on over to [http://linode.com/doesnotcompute20](http://linode.com/doesnotco
 
 ### Join Us On Slack
 
-If you've enjoyed the show so far, reach out to us on twitter at @seanwashington and @paulstraw, or join us in the Spec.fm slack community at [http://spec.fm/slack!](http://spec.fm/slack)
+If you've enjoyed the show so far, reach out to us on twitter at @seanwashbot and @paulstraw, or join us in the Spec.fm slack community at [http://spec.fm/slack!](http://spec.fm/slack)
 
 
 ### Leave us a review!

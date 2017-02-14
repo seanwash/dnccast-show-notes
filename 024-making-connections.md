@@ -29,7 +29,7 @@ Put errors in their place - In less than ten minutes you could have full blown w
 
 ### Join Us On Slack
 
-If you've enjoyed the show so far, reach out to us on twitter at @seanwashington and @paulstraw, or join us in the Spec.fm slack community at [http://spec.fm/slack!](http://spec.fm/slack)
+If you've enjoyed the show so far, reach out to us on twitter at @seanwashbot and @paulstraw, or join us in the Spec.fm slack community at [http://spec.fm/slack!](http://spec.fm/slack)
 
 ### Leave us a review!
 
