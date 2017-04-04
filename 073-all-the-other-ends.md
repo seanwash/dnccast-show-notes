@@ -1,4 +1,4 @@
-In episode 73 of Does Not Compute, Sean and Paul talk about taking a brief look at go, using Nuxt.js in production, and using GitHub Projects to not only help keep you organized, but also to keep your team members in the loop
+In episode 73 of Does Not Compute, Sean and Paul talk about taking a brief look at Go, using Nuxt.js in production, and using GitHub Projects to not only help keep you organized, but also to keep your team members in the loop
 
 ---
 
