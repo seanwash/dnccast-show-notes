@@ -1,0 +1,37 @@
+# Outgrowing Ego
+
+In episode 121 of Does Not Compute, Sean and Paul talk about switching priorities from tech based things to people based things, building software for the user on the other side, and learning to see past the mountain in front of you through experience.
+
+---
+
+Special thanks to [Datadog](https://www.datadoghq.com/doesnotcompute) for supporting today's episode!
+
+Thousands of organizations rely on [Datadog](https://www.datadoghq.com/doesnotcompute) to collect, visualize and alert on out of the box and custom metrics to gain full-stack observability with a unified view of all their systems, apps, and services at cloud-scale. Out of the box, [Datadog](https://www.datadoghq.com/doesnotcompute) has 200+ turnkey integrations including AWS, Postgres, Kubernetes, Slack, and Java ([view the full list here](https://www.datadoghq.com/product/integrations/)). They offer features including real-time visibility from built-in and customizable dashboards, algorithmic alerts, end-to-end request tracing to visualize app performance, and real-time collaboration!
+
+[Datadog](https://www.datadoghq.com/doesnotcompute) is offering DNC listeners a free trial, and as an added bonus for signing up and creating a dashboard you'll receive a free shirt!
+
+## Things Mentioned
+
+* [@kevinjbayer: "https://twitter.com/chadfowler/status/982273942785163264 … thought you might be interested in this thread."](https://twitter.com/chadfowler/status/982273942785163264)
+* [CTO Talk - Spectrum Community](https://spectrum.chat/cto-talk)
+* [Prettier](https://prettier.io/)
+* [Elixir - Mix Format](https://hexdocs.pm/mix/master/Mix.Tasks.Format.html)
+* [Notion](https://www.notion.so/)
+* [Google Docs](https://docs.google.com)
+* [Intercom.com](https://www.intercom.com/)
+* [Trello](https://trello.com/)
+* [Replacing jQuery With Vue.js: No Build Step Necessary](https://www.smashingmagazine.com/2018/02/jquery-vue-javascript/)
+* [Nuxt.js](https://nuxtjs.org/)
+* [VeeValidate](https://vee-validate.logaretm.com/)
+
+## Leave us a review
+
+Last but not least, if you haven't rated or reviewed the show yet and you'd like to do us a huge favor, [you can do so by clicking here!](https://itunes.apple.com/us/podcast/does-not-compute/id1048731980?mt=2)
+
+## Show Notes Archive
+
+If you're looking for a link we've mentioned in the past, head on over to the [Does Not Compute Show Notes](https://github.com/seanwash/dnccast-show-notes) repo and use GitHub's excellent search tool!
+
+## Join Us On Spectrum
+
+If you have enjoyed the show so far, reach out to us on twitter at @seanwashbot and @paulstraw, or join us in the Spectrum community at [https://spectrum.chat/specfm/does-not-compute](https://spectrum.chat/specfm/does-not-compute)!
