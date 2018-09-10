@@ -39,4 +39,4 @@ If you're looking for a link we've mentioned in the past, head on over to the [D
 
 ## Join Us On Spectrum
 
-If you have enjoyed the show so far, reach out to us on twitter at @seanwashbot and @paulstraw, or join us in the Spectrum community at [https://spectrum.chat/specfm/does-not-compute](https://spectrum.chat/specfm/does-not-compute)!
+If you have enjoyed the show so far, reach out to us on twitter at @seanwashbot and @schrockwell, or join us in the Spectrum community at [https://spectrum.chat/specfm/does-not-compute](https://spectrum.chat/specfm/does-not-compute)!
