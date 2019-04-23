@@ -21,9 +21,9 @@ Build your next app on [DigitalOcean](http://do.co/doesnot). Get started with a 
 
 ## Dave Lucia
 
-Dave has been writing Elixir since the Fall of 2016 where he was an early developer at theoutline.com. At The Outline, Dave helped build a news website and CMS  in Elixir and Phoenix. Part of that journey was working with Dockyard and Chris McCord. Using Elixir, The Outline was able to support a few million users a month with just two Heroku dynos, with the second needed only for backup.
+Dave has been writing Elixir since the Fall of 2016 where he was an early developer at theoutline.com. At The Outline, Dave helped build a news website and CMS in Elixir and Phoenix. Part of that journey was working with Dockyard and Chris McCord. Using Elixir, The Outline was able to support a few million users a month with just two Heroku dynos, with the second needed only for backup.
 
-Dave was at The Outline for two and a half years, and is not Platform Architect at simplebet.io. There, Dave is combing Elixir adn Rust to build realtime betting products.
+Dave was at The Outline for two and a half years, and is now Platform Architect at simplebet.io. There, Dave is combing Elixir and Rust to build realtime betting products.
 
 ## Things Mentioned
 
