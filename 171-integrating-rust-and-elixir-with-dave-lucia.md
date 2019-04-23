@@ -35,8 +35,8 @@ Build your next app on [DigitalOcean](http://do.co/doesnot). Get started with a 
 - [Chris McCord](http://chrismccord.com/)
 - [Ivar Vong](https://ivarvong.com/)
 - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
-- [Rust Lang](https://www.rust-lang.org/)
-- [Rustler Lib](https://github.com/rusterlium/rustler)
+- [Rust](https://www.rust-lang.org/)
+- [Rust - Rustler](https://github.com/rusterlium/rustler)
 - [http://erlang.org/doc/tutorial/nif.html](http://erlang.org/doc/tutorial/nif.html)
 - [http://erlang.org/doc/man/scheduler.html](http://erlang.org/doc/man/scheduler.html)
 - [Erlang Scheduler Details and Why It Matters](https://hamidreza-s.github.io/erlang/scheduling/real-time/preemptive/migration/2016/02/09/erlang-scheduler-details.html)
@@ -52,6 +52,7 @@ Build your next app on [DigitalOcean](http://do.co/doesnot). Get started with a 
 - [Heroku](https://heroku.com)
 - [Absinthe - Dataloader](https://github.com/absinthe-graphql/dataloader)
 - [Elixir Alchemy blog](https://blog.appsignal.com/elixir-alchemy)
+- [Erlang - Nif](http://erlang.org/doc/tutorial/nif.html)
 
 ## Leave us a review
 
